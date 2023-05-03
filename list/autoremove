@@ -1,0 +1,28 @@
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following packages will be REMOVED:
+  libass9 libatomic1:i386 libblas3 libbs2b0 libbsd0:i386 libdrm-amdgpu1:i386
+  libdrm-nouveau2:i386 libdrm-radeon1:i386 libdrm2:i386 libedit2:i386
+  libelf1:i386 libexpat1:i386 libffi8:i386 libflite1 libgl1-amber-dri
+  libglapi-mesa:i386 libglvnd0:i386 libicu70:i386 liblilv-0-0 libllvm13
+  libllvm15:i386 liblzma5:i386 libmd0:i386 libmysofa1 libnvidia-cfg1-515
+  libnvidia-cfg1-525 libnvidia-common-515 libnvidia-common-525
+  libnvidia-compute-515:i386 libnvidia-compute-525:i386
+  libnvidia-decode-515:i386 libnvidia-decode-525:i386 libnvidia-egl-wayland1
+  libnvidia-encode-515:i386 libnvidia-encode-525:i386 libnvidia-extra-515
+  libnvidia-extra-525 libnvidia-fbc1-515 libnvidia-fbc1-525 libnvidia-gl-515
+  libnvidia-gl-525 libpostproc55 librubberband2 libsensors5:i386 libserd-0-0
+  libsord-0-0 libsratom-0-0 libstdc++6:i386 libswscale5 libtinfo6:i386
+  libvidstab1.1 libx11-6:i386 libx11-xcb1:i386 libxau6:i386 libxcb-dri2-0:i386
+  libxcb-dri3-0:i386 libxcb-glx0:i386 libxcb-present0:i386 libxcb-shm0:i386
+  libxcb-sync1:i386 libxcb-xfixes0:i386 libxcb1:i386 libxdmcp6:i386
+  libxext6:i386 libxfixes3:i386 libxml2:i386 libxnvctrl0 libxshmfence1:i386
+  libxxf86vm1:i386 libzimg2 libzstd1:i386 nvidia-dkms-525
+  nvidia-kernel-source-515 nvidia-kernel-source-525 nvidia-settings pkg-config
+  pocketsphinx-en-us screen-resolution-extra xserver-xorg-video-nvidia-515
+  xserver-xorg-video-nvidia-525
+0 upgraded, 0 newly installed, 80 to remove and 6 not upgraded.
+After this operation, 1,044 MB disk space will be freed.
+Do you want to continue? [Y/n] 
+

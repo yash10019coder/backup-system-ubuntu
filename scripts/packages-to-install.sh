@@ -1,0 +1,46 @@
+sudo apt update
+
+# Apt packages
+sudo apt install vim
+sudo apt install gparted
+sudo apt install python3-pydrive
+sudo apt install terminator
+sudo apt install ~/Downloads/slack-desktop-*.deb
+sudo apt install code
+sudo apt install snapd
+sudo apt install ./upwork_*_amd64.deb
+sudo apt install google-chrome-stable
+sudo apt install net-tools
+sudo apt install neofetch
+sudo apt install speedtest-cli
+sudo apt install gnome-shell-extensions
+sudo apt install brave-browser
+sudo apt install git
+sudo apt install nautilus-*
+sudo apt install python-is-python3
+sudo apt install gnome-tweaks
+sh <(curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh)
+sudo usermod -aG nordvpn $USER
+sudo apt install trash-cli
+sudo apt install tldr
+sudo apt install nodejs npm
+sudo apt install tree
+sudo apt install obs-studio
+sudo apt install blender
+sudo apt install default-jdk default-jre
+sudo npm i -g yarn
+sudo apt install inxi
+sudo apt install kotlin
+sudo apt install dhcpcd*
+sudo systemctl enable dhcpcd 
+sudo apt install gh
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+sudo apt install nethogs
+sudo apt install jq
+sudo apt install texlive texlive-base  texlive-bibtex-extra texlive-binaries texlive-extra-utils texlive-fonts-extra texlive-fonts-extra-doc texlive-fonts-extra-links texlive-fonts-recommended texlive-fonts-recommended-doc texlive-font-utils texlive-formats-extra texlive-lang-english texlive-latex-base texlive-latex-base-doc texlive-latex-extra texlive-latex-extra-doc texlive-latex-recommended texlive-latex-recommended-doc texlive-luatex texlive-metapost texlive-metapost-doc texlive-pictures texlive-pictures-doc texlive-plain-generic texlive-pstricks texlive-pstricks-doc texlive-science texlive-science-doc texlive-xetex
+sudo apt install xclip
+
+# Snaps
+sudo snap install spotify
+sudo snap install telegram-desktop
+sudo snap install postman

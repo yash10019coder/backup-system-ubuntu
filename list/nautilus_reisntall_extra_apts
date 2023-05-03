@@ -1,0 +1,77 @@
+ brasero-common burner-common cdrdao dvd+rw-tools font-manager-common
+  font-viewer gamin gir1.2-nautilus-3.0 gnome-console growisofs gsfonts
+  gtkhash imagemagick imagemagick-6-common imagemagick-6.q16 javascript-common
+  kactivities-bin kactivitymanagerd kdeconnect kded5 keditbookmarks kio
+  kpackagelauncherqml kpackagetool5 kpeople-vcard kwayland-data
+  kwayland-integration libaacs0 libaom3 libapr1 libaprutil1 libavcodec58
+  libavformat58 libavutil56 libb2-1 libbdplus0 libbluray2 libbrasero-media3-1
+  libburn4 libburner-media3-1 libchromaprint1 libcloudproviders0 libcodec2-1.0
+  libdav1d5 libdbusmenu-qt5-2 libde265-0 libdouble-conversion3 libfakekey0
+  libfftw3-double3 libgamin0 libgme0 libgsecuredelete0 libgsm1 libheif1
+  libhfstospell11 libilmbase25 libisofs6 libjs-jquery libjs-sphinxdoc
+  libjs-underscore libjte2 libjxr-tools libjxr0 libkf5activities5
+  libkf5archive5 libkf5auth-data libkf5auth5 libkf5authcore5
+  libkf5bookmarks-data libkf5bookmarks5 libkf5calendarevents5
+  libkf5codecs-data libkf5codecs5 libkf5completion-data libkf5completion5
+  libkf5config-bin libkf5config-data libkf5configcore5 libkf5configgui5
+  libkf5configwidgets-data libkf5configwidgets5 libkf5contacts-data
+  libkf5contacts5 libkf5coreaddons-data libkf5coreaddons5 libkf5crash5
+  libkf5dbusaddons-bin libkf5dbusaddons-data libkf5dbusaddons5
+  libkf5declarative-data libkf5declarative5 libkf5doctools5
+  libkf5globalaccel-bin libkf5globalaccel-data libkf5globalaccel5
+  libkf5globalaccelprivate5 libkf5guiaddons-bin libkf5guiaddons-data
+  libkf5guiaddons5 libkf5i18n-data libkf5i18n5 libkf5i18nlocaledata5
+  libkf5iconthemes-bin libkf5iconthemes-data libkf5iconthemes5 libkf5idletime5
+  libkf5itemviews-data libkf5itemviews5 libkf5jobwidgets-data
+  libkf5jobwidgets5 libkf5kcmutils-data libkf5kcmutils5 libkf5kiocore5
+  libkf5kiofilewidgets5 libkf5kiogui5 libkf5kiontlm5 libkf5kiowidgets5
+  libkf5kirigami2-5 libkf5notifications-data libkf5notifications5
+  libkf5package-data libkf5package5 libkf5parts-data libkf5parts-plugins
+  libkf5parts5 libkf5people-data libkf5people5 libkf5peoplebackend5
+  libkf5peoplewidgets5 libkf5plasma5 libkf5plasmaquick5 libkf5pulseaudioqt3
+  libkf5quickaddons5 libkf5service-bin libkf5service-data libkf5service5
+  libkf5solid5 libkf5solid5-data libkf5sonnet5-data libkf5sonnetcore5
+  libkf5sonnetui5 libkf5textwidgets-data libkf5textwidgets5 libkf5wallet-bin
+  libkf5wallet-data libkf5wallet5 libkf5waylandclient5
+  libkf5widgetsaddons-data libkf5widgetsaddons5 libkf5windowsystem-data
+  libkf5windowsystem5 libkf5xmlgui-bin libkf5xmlgui-data libkf5xmlgui5
+  libkwalletbackend5-5 liblqr-1-0 libmagickcore-6.q16-6
+  libmagickcore-6.q16-6-extra libmagickwand-6.q16-6 libmd4c0 libmfx1
+  libminizip1 libnetpbm10 libnextcloudsync0 libnorm1 libopenexr25 libopenmpt0
+  libowncloudsync0 libpcre2-16-0 libperl4-corelibs-perl libpgm-5.3-0
+  libpolkit-qt5-1-1 libqca-qt5-2 libqca-qt5-2-plugins libqt5core5a libqt5dbus5
+  libqt5gui5 libqt5keychain1 libqt5multimedia5 libqt5multimediaquick5
+  libqt5network5 libqt5positioning5 libqt5printsupport5 libqt5qml5
+  libqt5qmlmodels5 libqt5qmlworkerscript5 libqt5quick5 libqt5quickcontrols2-5
+  libqt5quickparticles5 libqt5quicktemplates2-5 libqt5quickwidgets5 libqt5sql5
+  libqt5sql5-sqlite libqt5svg5 libqt5texttospeech5 libqt5waylandclient5
+  libqt5waylandcompositor5 libqt5webchannel5 libqt5webengine-data
+  libqt5webenginecore5 libqt5webenginewidgets5 libqt5websockets5
+  libqt5widgets5 libqt5x11extras5 libqt5xml5 librabbitmq4 libre2-9 libserf-1-1
+  libshine3 libsnappy1v5 libsrt1.4-gnutls libssh-gcrypt-4 libsvn1
+  libswresample3 libudfread0 libutf8proc2 libvoikko1 libx265-199
+  libxcb-composite0 libxcb-damage0 libxcb-xinerama0 libxcb-xinput0
+  libxvidcore4 libzmq5 libzvbi-common libzvbi0 nautilus-admin nautilus-dropbox
+  nautilus-extension-brasero nautilus-extension-burner
+  nautilus-extension-gnome-console nautilus-filename-repairer
+  nautilus-font-manager nautilus-gtkhash nautilus-hide nautilus-ideviceinfo
+  nautilus-image-converter nautilus-kdeconnect nautilus-nextcloud
+  nautilus-owncloud nautilus-script-audio-convert
+  nautilus-script-collection-svn nautilus-script-debug nautilus-script-manager
+  nautilus-scripts-manager nautilus-wipe netpbm nextcloud-desktop
+  nextcloud-desktop-common nextcloud-desktop-doc nextcloud-desktop-l10n
+  owncloud-client owncloud-client-data owncloud-client-l10n plasma-framework
+  python3-gpg python3-nautilus qml-module-org-kde-kconfig
+  qml-module-org-kde-kirigami2 qml-module-org-kde-kquickcontrols
+  qml-module-org-kde-kquickcontrolsaddons qml-module-org-kde-people
+  qml-module-org-kde-qqc2desktopstyle qml-module-org-kde-sonnet
+  qml-module-qt-labs-folderlistmodel qml-module-qt-labs-platform
+  qml-module-qt-labs-settings qml-module-qtgraphicaleffects
+  qml-module-qtmultimedia qml-module-qtqml qml-module-qtqml-models2
+  qml-module-qtquick-controls qml-module-qtquick-controls2
+  qml-module-qtquick-dialogs qml-module-qtquick-layouts
+  qml-module-qtquick-particles2 qml-module-qtquick-privatewidgets
+  qml-module-qtquick-templates2 qml-module-qtquick-window2 qml-module-qtquick2
+  qt5-gtk-platformtheme qtspeech5-speechd-plugin qttranslations5-l10n
+  qtwayland5 secure-delete sonnet-plugins sshfs subversion
+
