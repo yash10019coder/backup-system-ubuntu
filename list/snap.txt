@@ -1,0 +1,9 @@
+spotify
+
+telegram-desktop
+
+postman
+
+auto-cpufreq
+
+trello-desktop

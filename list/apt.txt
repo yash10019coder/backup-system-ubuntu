@@ -65,3 +65,5 @@ jq
 texlive texlive-base  texlive-bibtex-extra texlive-binaries texlive-extra-utils texlive-fonts-extra texlive-fonts-extra-doc texlive-fonts-extra-links texlive-fonts-recommended texlive-fonts-recommended-doc texlive-font-utils texlive-formats-extra texlive-lang-english texlive-latex-base texlive-latex-base-doc texlive-latex-extra texlive-latex-extra-doc texlive-latex-recommended texlive-latex-recommended-doc texlive-luatex texlive-metapost texlive-metapost-doc texlive-pictures texlive-pictures-doc texlive-plain-generic texlive-pstricks texlive-pstricks-doc texlive-science texlive-science-doc texlive-xetex
 
 xclip
+
+wmctrl
