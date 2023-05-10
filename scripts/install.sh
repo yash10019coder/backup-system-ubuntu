@@ -21,6 +21,11 @@ else
     sudo usermod -aG nordvpn $USER
 fi
 
+# docker post installation setup
+sudo groupadd docker
+sudo usermod -aG docker $USER
+newgrp docker
+
 sudo npm i -g yarn
 sudo systemctl enable dhcpcd
 

@@ -8,3 +8,8 @@ sudo cp $etc_backup_dir/ufw/user*.rules /etc/ufw/
 # restoring the /etc/NetworkManager/NetworkManager.conf file. and system-connections
 
 sudo cp $etc_backup_dir/NetworkManager/system-connections/* /etc/NetworkManager/system-connections/
+
+# restoring fs file notify max
+sudo cp $etc_backup_dir/systctl.d/idea.conf /etc/sysctl.d/
+
+sudo sysctl -p --system

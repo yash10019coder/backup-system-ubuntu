@@ -67,3 +67,5 @@ texlive texlive-base  texlive-bibtex-extra texlive-binaries texlive-extra-utils 
 xclip
 
 wmctrl
+pulseaudio*
+pavucontrol
