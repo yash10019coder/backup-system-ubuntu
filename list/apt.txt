@@ -69,3 +69,5 @@ xclip
 wmctrl
 pulseaudio*
 pavucontrol
+
+iw

@@ -11,8 +11,15 @@ sudo apt update
 
 # Apt packages
 
+# downgrading wpa supplicant as latest dosen't work.
+sudo apt --allow-downgrades install wpasupplicant=2:2.9.0-21build1
+
+
+# nordvpn installion and setup.
 if [ "nordvpn" in $apt_list_installed]; then
     echo "NordVPN already installed"
+	nordvpn set firewall off
+	nordvpn set analytics off
 
 else
 
