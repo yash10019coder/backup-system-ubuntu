@@ -71,3 +71,7 @@ pulseaudio*
 pavucontrol
 
 iw
+
+dconf-editor
+
+git-secret
