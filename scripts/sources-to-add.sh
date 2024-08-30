@@ -53,4 +53,7 @@ cat signal-desktop-keyring.gpg | sudo tee /usr/share/keyrings/signal-desktop-key
 echo 'deb [arch=amd64 signed-by=/usr/share/keyrings/signal-desktop-keyring.gpg] https://updates.signal.org/desktop/apt xenial main' |
   sudo tee /etc/apt/sources.list.d/signal-xenial.list
 
+curl -1sLf 'https://dl.cloudsmith.io/public/go-swagger/go-swagger/gpg.2F8CB673971B5C9E.key' | sudo apt-key add -
+curl -1sLf 'https://dl.cloudsmith.io/public/go-swagger/go-swagger/config.deb.txt?distro=debian&codename=any-version' | sudo tee /etc/apt/sources.list.d/go-swagger-go-swagger.list
+
 sudo apt update
